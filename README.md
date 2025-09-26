@@ -1,4 +1,4 @@
-# 🌌 Verdant Portfolio — A Modern Developer Showcase  
+# 🌌 Arnes's Portfolio — Showcasing a Modern Developer 
 
 <div align="center">
   <img src="./banner.png" alt="Portfolio Website Banner" width="100%" />
