@@ -1,9 +1,4 @@
 # 🌌 Arnes's Portfolio — Showcasing a Modern Developer 
-
-<div align="center">
-  <img src="./banner.png" alt="Portfolio Website Banner" width="100%" />
-
-  <br/><br/>
   
   <p>
     <b>A fully animated, responsive developer portfolio built with React, TailwindCSS, and Vite.</b>  
