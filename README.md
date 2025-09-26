@@ -27,8 +27,6 @@ This project demonstrates how to build a **professional, production-ready portfo
 
 It emphasizes **clean design, performance, and UX** — with interactive animations, responsive layouts, and an API-powered project showcase. Perfect for developers wanting to present their skills to employers or clients.  
 
-🎥 Demo video: [Watch on YouTube](https://youtu.be/YOUR_VIDEO_ID)  
-
 ---
 
 ## 🛠 Tech Stack  
@@ -112,9 +110,9 @@ You’ll instantly get a production-ready portfolio on `https://yourname.vercel.
 ## 👤 Author  
 
 **Arnes Kapic**  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnes-kapic-641b40245/)  
 - 💻 [GitHub](https://github.com/ArnesKapic)  
-- ✉️ [Email](mailto:your.email@example.com)  
+- ✉️ [Email](mailto:kapic.arnes.13@gmail.com)  
 
 ---
 
