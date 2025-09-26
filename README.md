@@ -74,9 +74,9 @@ Your site will be live at **http://localhost:5173**
 ## 📸 Screenshots  
 
 <div align="center">
-  <img src="./screenshots/hero.png" alt="Hero Section" width="80%" />
-  <img src="./screenshots/projects.png" alt="Projects Grid" width="80%" />
-  <img src="./screenshots/contact.png" alt="Contact Form" width="80%" />
+  <img src="public/screenshots/hero.png" alt="Hero Section" width="80%" />
+  <img src="public/screenshots/projects.png" alt="Projects Grid" width="80%" />
+  <img src="public/screenshots/contact.png" alt="Contact Form" width="80%" />
 </div>
 
 ---
